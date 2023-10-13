@@ -1,4 +1,4 @@
-[![Header](salvador_villalon_banner.png "Header")]()
+[![Header](luce_banner.png "Header")]()
 
 # Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
@@ -10,39 +10,32 @@ My name is Salvador Villalon and this is Supplemental Materials for my applicati
 ## 🔭 Currently Working On
 I have been working at [Accenture](https://www.accenture.com/us-en) since 2021. Through Accenture, I have worked for several clients such as
 - [Code.org](https://code.org/)
-- [Meta](https://about.meta.com/).
-
-Now I am currently doing full-stack applications at the [Internal Revenue Service](https://www.irs.gov/).
+- [Meta](https://about.meta.com/)
+- Now I am currently doing full-stack applications at the [Internal Revenue Service](https://www.irs.gov/).
 
 I am also a part-time Full Stack Development Instructor at [Fullstack Academy](https://www.fullstackacademy.com/) where I teach a cohort of 20 students how to become Software Engineers.
 
 ## 💪🏽 Value I Bring
+### Education
 Qualifications include a Bachelor’s Degree in Computer Science from the University of California, Irvine. 
 
-I have the following certifications
+### Certifications
 - Currently preparing for the **AWS Cloud Practitioner Certification** using CloudGuru self-paced course
 - [Agile Fundamentals - ICAgile](https://www.icagile.com/credentials/951940e1-23d1-4d6b-92ea-af916bcb2eff)
 - [JavaScript Algorithms & Data Structures - freeCodeCamp](https://www.freecodecamp.org/certification/salvador_villalon_jr/javascript-algorithms-and-data-structures)
 - [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/salvillalon45/responsive-web-design)
 
-I have my own tutorial! Teaching people how to deploy applications to the Google Cloud!
+### Publications
 - [How to build a web application using Flask and deploy it to the cloud](https://medium.com/free-code-camp/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492)
+
+### Portfolio
+- [Salvador Villalon Portfolio Version 4](https://salvador-villalon.netlify.app/)
   
 I bring the following to every project:
- ✔️ Experience working on enterprise-level applications 
- ✔️ Dedication to teamwork and flexible collaboration
- ✔️ Resourceful team player
- ✔️ Passion for learning and applying new things!
-
- ## ⚙️ Techonologies
- - HTML/CSS     - GraphQL
- - JavaScript   - Relay
- - TypeScript   - Hack
- - React.js     - MongoDB
- - Gatsby.js    - REST APIs
- - Node.js      - Firebase
- - Express.js   - MySQL
-
+ - ✔️ Experience working on enterprise-level applications 
+ - ✔️ Dedication to teamwork and flexible collaboration
+ - ✔️ Resourceful team player
+ - ✔️ Passion for learning and applying new things!
 
 ## 📫 Contact
 - salvadorvillalon54[@].gmail.com
