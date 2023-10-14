@@ -24,8 +24,13 @@ Qualifications include a Bachelor’s Degree in Computer Science from the Univer
 - [Agile Fundamentals - ICAgile](https://www.icagile.com/credentials/951940e1-23d1-4d6b-92ea-af916bcb2eff)
 - [JavaScript Algorithms & Data Structures - freeCodeCamp](https://www.freecodecamp.org/certification/salvador_villalon_jr/javascript-algorithms-and-data-structures)
 - [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/salvillalon45/responsive-web-design)
+  
 ### Awards
 - Received the National Medium Chapter of the Year Award 2019 (competed against 245+ chapters across the US) from the Society of Hispanic Professional Engineers (SHPE). [Link to the article](https://engineering.uci.edu/news/2019/11/uci-chapter-hispanic-engineers-earns-national-recognition). Every SHPE chapter across the United States competes for this award, and out of all of the chapters SHPE-UCI won. This was the first time in SHPE-UCI history that we win this award.
+
+### Media
+- [My video submission to Management Leadership for Tomorrow Career Prep Fellow Program back in Dec 26, 2016](https://youtu.be/OC-jjLCLFdU?si=rzEmM3itNPtdERLu)
+- [Hosting a friendly-fun intro to body-weight exercises Summer 2016](https://youtu.be/-K1EGEN4oT8?si=owV_MR1oBTxbg5eq)
 
 ### Publications
 - [How to build a web application using Flask and deploy it to the cloud](https://medium.com/free-code-camp/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492)
