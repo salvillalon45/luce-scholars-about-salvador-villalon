@@ -43,7 +43,7 @@ I bring the following to every project:
  - ✔️ Passion for learning and applying new things!
 
 ## 📫 Contact
-- salvadorvillalon54[@].gmail.com
+- salvador.villalon.jr[@].gmail.com
 - [LinkedIn](https://www.linkedin.com/in/salvadorvillalon/)
 - [GitHub](https://github.com/salvillalon45)
 - [Medium](https://medium.com/@salvav1)
