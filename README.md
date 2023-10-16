@@ -34,7 +34,7 @@ Qualifications include a Bachelor’s Degree in Computer Science from the Univer
 
 ### Publications
 - [How to build a web application using Flask and deploy it to the cloud](https://medium.com/free-code-camp/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492)
-
+- Created a JavaScript solution to the [GitHub Issue](https://github.com/code-dot-org/piskel/pull/49) labeled as complex that the founder of Piskel issued. As a result, 67M K-12 Code.org students in all 50 US states can use [Piskel](https://github.com/piskelapp/piskel) in their preferred language
 ### Portfolio
 - [Salvador Villalon Portfolio Version 4](https://salvador-villalon.netlify.app/)
 
